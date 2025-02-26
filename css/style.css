@@ -1,0 +1,186 @@
+
+.fondo1{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.5) 100%), url(fondo_1.jpg);
+   padding-top: 100px;
+   width: 100%;
+   height: 300px;
+   background-size: cover;
+   background-position: center;
+   background-attachment: relative;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   position: relative;
+   
+   
+
+}
+.parrafo_P{
+    color: rgb(7, 7, 7);
+    text-shadow: 2px 2px 10px;
+    font-size: 25px;
+}
+.imagen1{
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}
+.fondo1 h1{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 300;
+    text-shadow: 2px 2px 10px;
+    color: rgb(209, 203, 203);
+    
+   
+
+}
+#header{
+    background-color: #fdffff;
+    background: rgba(139, 118, 118, 0.1);
+    text-align: center;
+    font-weight: bold;
+    height: 60px;
+    width: 100%;
+    box-shadow: 10 4px 8px;
+    padding: 10px;
+    position: relative;
+    width: 95%;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-around;
+    backdrop-filter: blur(10px);
+    border-radius: 40px;
+    
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color:rgb(211, 211, 211);
+    background-color:rgba(139, 118, 118, 0.1);
+    border: none; 
+    transform: translate(-70%, -50%);
+    margin: 0;
+    
+}
+a:hover{
+    background-color: rgb(244, 232, 232);
+
+}
+td{
+    padding: 5px;
+}
+ul{
+    margin: 30px;
+}
+ol{
+    margin: 20px;
+}
+table{
+    width: 100%;
+}
+.fondo_2{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.5) 100%),  url(img/FONDO_2.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ .fondo_2 h1{
+     text-align: center;
+     font-size: 48px;
+     font-weight: 300px;
+     text-shadow: 2px 2px 10px;
+     color: rgb(0, 0, 0);
+ 
+ }
+ .fondo_2_img{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.5) 100%), url(img/fondo_2_imagen.webp);
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    justify-content: center;
+
+ }
+ .fondo_2_img p{
+    text-align: center;
+    font-size: 27px;
+    font-weight: 300px;
+    text-shadow: 8px 2px 10px;
+   
+ }
+ .fondo_3{
+    background-image: url(img/fondo_3.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ .fondo_3 h1{
+     text-align: center;
+     font-size: 48px;
+     font-weight: 300px;
+     text-shadow: 2px 2px 10px;
+     color: rgb(21, 20, 19);
+ 
+ }
+ .img_3{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.5) 100%), url(img/img_letras_3.jpg);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+ }
+ .img_3 li{
+    color: rgb(250, 250, 250);
+    text-shadow: 2px 2px 10px;
+    font-size: 25px;
+ }
+ .fondo_4{
+    background-image: url(img/fondo_4.jpg);
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+ }
+ .img_4 {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.5) 100%), url(img/img_4_letras.jpg);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+ }
+ .fondo_4 h1{
+     text-align: center;
+     font-size: 48px;
+     font-weight: 400px;
+     text-shadow: 2px 2px 10px;
+     color: white;
+ 
+ }
+ .img_4 li{
+    color: rgb(7, 7, 7);
+    text-shadow: 2px 2px 10px;
+    font-size: 25px;
+ }
+
